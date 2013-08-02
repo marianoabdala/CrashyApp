@@ -9,8 +9,8 @@
 #import "CRSAppDelegate.h"
 #import "CRSViewController.h"
 
-#define CRASH_NOTIFICATION_DELAY    20
-#define CRASH_NOTIFICATION_CANCEL   19
+#define CRASH_NOTIFICATION_DELAY    6
+#define CRASH_NOTIFICATION_CANCEL   5
 
 #define ALERT_VIEW_SUPPORT_BUTTON_INDEX 1
 
